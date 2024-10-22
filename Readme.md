@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Nikita Shtanko](https://up.htmlacademy.ru/univer-nodejs-api/3/user/2576719).
-* Наставник: `Неизвестно`.
+* Студент: [Штанько Никита (Mästerchëf)](https://up.htmlacademy.ru/univer-nodejs-api/3/user/2576719).
+* Наставник: `Политехнический университет`.
 
 ---
 
